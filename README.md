@@ -4,5 +4,4 @@
 	    ██║  ██║ ██║  ██║  ██║  ██║ ██╔══╝   ██║  ██╗ ██╔══██║
 	   ███████╔╝ ╚█████╔╝ ███████╔╝ ███████╗ ╚█████╔╝ ██║  ██║
 	   ╚══════╝   ╚════╝  ╚══════╝  ╚══════╝  ╚════╝  ╚═╝  ╚═╝
-		
-		Multithreaded Open-Source Minimal C++ 2D Game Engine
+        Multithreaded Open-Source Minimal C++ 2D Game Engine
